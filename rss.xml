@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chris' Thoughts]]></title>
         <description><![CDATA[Chris' Thoughts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 13:48:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 14:26:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0608d7e-e221-4dd5-ae15-9c8d8f0fae27.jpg">]]></description>
+            <link>https://thegrid.ai/chris-thoughts/42625d70-b984-4eda-9321-0502a1a93ecc/index.html</link>
+            <guid isPermaLink="false">42625d70-b984-4eda-9321-0502a1a93ecc</guid>
+            <pubDate>Sun, 06 Mar 2016 14:25:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About me]]></title>
             <description><![CDATA[<h1>About me</h1>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>https://thegrid.ai/chris-thoughts/about-me/index.html</link>
             <guid isPermaLink="false">b066a0f4-1cb4-44f1-8df2-6d8187d03d54</guid>
             <pubDate>Sun, 06 Mar 2016 13:48:45 GMT</pubDate>
         </item>
