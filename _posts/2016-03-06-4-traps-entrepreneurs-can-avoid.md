@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T15:29:13.725Z'
-dateModified: '2016-03-06T15:29:11.228Z'
+datePublished: '2016-03-07T13:48:28.192Z'
+dateModified: '2016-03-07T13:47:16.122Z'
 title: 4 traps entrepreneurs can avoid
 author: []
 sourcePath: _posts/2016-03-06-4-traps-entrepreneurs-can-avoid.md
