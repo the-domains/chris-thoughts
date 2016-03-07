@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T14:07:23.531Z'
-dateModified: '2016-03-07T14:06:50.453Z'
+datePublished: '2016-03-07T14:18:17.935Z'
+dateModified: '2016-03-07T14:17:27.428Z'
 title: Meet Christophe Druet
 author: []
 sourcePath: _posts/2016-03-06-meet-christophe-druet.md
