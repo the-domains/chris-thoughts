@@ -1,6 +1,6 @@
 name: "Chris' Thoughts"
 favicon: null
-layout_spectrum: 0.25431
+layout_spectrum: 0.74953
 typography_spectrum: 0.36956
 title: "Chris' Thoughts"
 cta:
@@ -22,7 +22,7 @@ color:
     - '#e47734'
     - '#ffa67e'
     - '#ffebd6'
-  brandStrength: 0.2060137924272567
+  brandStrength: 0.1875
   lightness: 0.6249031180050224
   saturation: 0.7306739168707281
   rhythmicContrast: 0.6544149820692837
