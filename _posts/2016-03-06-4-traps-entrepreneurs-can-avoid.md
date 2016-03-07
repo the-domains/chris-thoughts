@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T14:03:15.104Z'
-dateModified: '2016-03-07T14:02:58.967Z'
+datePublished: '2016-03-07T14:05:11.335Z'
+dateModified: '2016-03-07T14:05:00.231Z'
 title: 4 traps entrepreneurs can avoid
 author: []
 sourcePath: _posts/2016-03-06-4-traps-entrepreneurs-can-avoid.md
@@ -36,4 +36,3 @@ The good news is that the entrepreneurial spirit is alive and kicking even in Eu
 Why do so many of them fail?
 
 Cash is the most commonly cited issue you'll get. But as Jerry Colonna so well say most cash issue come from deeper issues. Here are 4 root causes that contribute to startup failures. Heavily.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d0bc66d-0be2-4d2b-8a42-a5d13220a483.jpg)
