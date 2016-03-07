@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T15:40:12.021Z'
-dateModified: '2016-03-06T15:40:04.051Z'
+datePublished: '2016-03-07T13:52:19.465Z'
+dateModified: '2016-03-07T13:49:22.386Z'
 title: Meet Christophe Druet
 author: []
+sourcePath: _posts/2016-03-06-meet-christophe-druet.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-meet-christophe-druet.md
-published: true
 url: meet-christophe-druet/index.html
 _type: Blurb
 
 ---
 # Meet Christophe Druet
 
-ChristopheDruetis a beloved thought leader in the areas of electrical power systems, electricity markets, and innovation management. After almost 2 decades of continuous luck and success, he met career adversity. Very recently. He overcame this by finding his own path and true passion, and by changing career pretty drastically.
+ChristopheDruet is a beloved thought leader in the areas of electrical power systems, electricity markets, and innovation management. After almost 2 decades of continuous luck and success, he met career adversity. Very recently. He overcame this by finding his own path and true passion, and by changing career pretty drastically.
 
 Beyond business, Christophe's greatest joys are spending time with his family and friends as well as helping inspire and educate others on how to improve their own careers. Christophe is praised for his authentic leadership style and business principles. His personal mission is pretty simple, yet so ambitious that you may find him delusional: he wants to [make a true difference in people's life][0].
 
