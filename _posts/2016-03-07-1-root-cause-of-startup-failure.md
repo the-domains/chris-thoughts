@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Choosing the wrong/bad partner(s) is the most common mistake leading to startup disaster. AVOID!'
-datePublished: '2016-03-07T17:10:26.852Z'
-dateModified: '2016-03-07T17:04:52.632Z'
+datePublished: '2016-03-07T17:10:46.410Z'
+dateModified: '2016-03-07T17:10:46.062Z'
 title: '#1 root cause of startup failure'
 author: []
 authors: []
