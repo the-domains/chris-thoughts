@@ -4,8 +4,15 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 14:00:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 16:36:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Strategist]]></title>
+            <description><![CDATA[<article><h1>The Strategist</h1><h2>Be the Leader your Business Needs</h2><p>by Cynthia A. Montgomery</p></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/the-strategist/index.html</link>
+            <guid isPermaLink="false">a9493bda-fda8-452f-832d-a6f2d6ce1a3b</guid>
+            <pubDate>Tue, 08 Mar 2016 16:34:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Working Identity]]></title>
             <description><![CDATA[<article><h1>Working Identity</h1><p>by Herminia Ibarra</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c31b02bb0752f04a4e7134d9750937819a2d5856.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-thoughts/a-recipe-for-staying-focused/index.html</link>
             <guid isPermaLink="false">a84ba360-1059-4830-98c6-d1e27125b9d0</guid>
             <pubDate>Tue, 08 Mar 2016 11:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Being too much - or not enough - of you!]]></title>
-            <description><![CDATA[<article><h1>Being too much - or not enough - of you!</h1><h2>#4 mistake leading to start-up failure</h2></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/being-too-much-or-not-enough-of-you/index.html</link>
-            <guid isPermaLink="false">4757adc8-e270-4161-8fea-b366be439f4a</guid>
-            <pubDate>Tue, 08 Mar 2016 11:28:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
