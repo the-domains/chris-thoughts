@@ -4,8 +4,15 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 16:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 16:50:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Being Wrong]]></title>
+            <description><![CDATA[<article><h1>Being Wrong</h1><p>by Kathryn Schulz</p></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/being-wrong/index.html</link>
+            <guid isPermaLink="false">f4f05c16-f651-45be-b4bb-591edbd21a2e</guid>
+            <pubDate>Tue, 08 Mar 2016 16:48:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 4-hour Workweek]]></title>
             <description><![CDATA[<article><h1>The 4-hour Workweek</h1><p>by Tim Ferriss</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-thoughts/organizational-culture-and-leadership/index.html</link>
             <guid isPermaLink="false">ee7a276e-90fd-4bd7-a733-7f564ed5df45</guid>
             <pubDate>Tue, 08 Mar 2016 13:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My elevator pitch]]></title>
-            <description><![CDATA[<article><h1>My elevator pitch</h1><p>Hello. My name is Christophe and I’m a startup coach. Starting a new venture is stressful. I take some pain away and help you to succeed as an entrepreneur. And I don’t directly charge anything until then. What is your business dream?</p></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/my-elevator-pitch/index.html</link>
-            <guid isPermaLink="false">974aa63b-77c2-430c-a67c-7c670da20159</guid>
-            <pubDate>Tue, 08 Mar 2016 12:00:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
