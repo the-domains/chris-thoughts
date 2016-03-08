@@ -4,8 +4,15 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 13:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 13:34:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Lean Startup]]></title>
+            <description><![CDATA[<article><h1>The Lean Startup</h1><p>by Eric Ries</p></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/the-lean-startup/index.html</link>
+            <guid isPermaLink="false">1ba8c56c-272a-411c-8a07-3b3cfc127cbf</guid>
+            <pubDate>Tue, 08 Mar 2016 13:34:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Fifth Discipline]]></title>
             <description><![CDATA[<article><h1>The Fifth Discipline</h1><p>by Peter Senge</p></article>]]></description>
