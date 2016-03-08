@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: by Herminia Ibarra
-datePublished: '2016-03-08T13:57:15.613Z'
-dateModified: '2016-03-08T13:57:03.828Z'
+datePublished: '2016-03-08T13:57:48.927Z'
+dateModified: '2016-03-08T13:57:19.940Z'
 title: Working Identity
 author: []
 sourcePath: _posts/2016-03-08-working-identity.md
