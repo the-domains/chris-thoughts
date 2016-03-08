@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Working Identity
-datePublished: '2016-03-08T13:56:44.330Z'
-dateModified: '2016-03-08T13:56:31.540Z'
-title: ''
+description: by Herminia Ibarra
+datePublished: '2016-03-08T13:57:15.613Z'
+dateModified: '2016-03-08T13:57:03.828Z'
+title: Working Identity
 author: []
+sourcePath: _posts/2016-03-08-working-identity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-working-identity.md
-published: true
 url: working-identity/index.html
 _type: Article
 
 ---
-Working Identity
+# Working Identity
 
 by Herminia Ibarra
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3eebd62-c08d-4175-b445-a2903e7c2de1.jpg)
