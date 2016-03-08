@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Choosing the wrong/bad partner(s) is the most common mistake leading to startup disaster. AVOID!'
-datePublished: '2016-03-08T07:58:15.697Z'
-dateModified: '2016-03-08T07:57:46.769Z'
+datePublished: '2016-03-08T07:59:54.763Z'
+dateModified: '2016-03-08T07:59:47.457Z'
 title: Choosing the right business partners
 author: []
+sourcePath: _posts/2016-03-07-1-root-cause-of-startup-failure.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-1-root-cause-of-startup-failure.md
-published: true
 url: 1-root-cause-of-startup-failure/index.html
 _type: Article
 
 ---
 # Choosing the right business partners
 
-## \#1 mistake that leads to start-up failure
+## \#1 mistake leading to start-up failure
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f667c9c0-2a13-48aa-9f0e-bf464d9e393b.jpg)
 
 Brother, sister, dad, mom: avoid. You don't want to yell at each other for business. They won't ever be completely honest with you, especially if they think your idea sucks. Just as you'll probably be very supportive of their initiative. In-laws too: avoid.
