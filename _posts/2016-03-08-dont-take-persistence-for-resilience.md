@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T11:15:59.504Z'
-dateModified: '2016-03-08T11:04:56.764Z'
+datePublished: '2016-03-08T11:37:46.268Z'
+dateModified: '2016-03-08T11:23:04.466Z'
 title: "Don't take persistence for resilience"
 author: []
+sourcePath: _posts/2016-03-08-dont-take-persistence-for-resilience.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-dont-take-persistence-for-resilience.md
-published: true
 url: dont-take-persistence-for-resilience/index.html
 _type: Article
 
