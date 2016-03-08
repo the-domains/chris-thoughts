@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Christophe\_Druet\_is a beloved thought leader in the areas of electrical power systems, electricity markets, and innovation management. After almost 2 decades of continuous luck and success, he met career adversity. Very recently. He overcame this by finding his own path and true passion, and by changing career pretty drastically."
-datePublished: '2016-03-08T12:24:14.909Z'
-dateModified: '2016-03-08T11:43:23.179Z'
+datePublished: '2016-03-08T13:19:08.461Z'
+dateModified: '2016-03-08T12:24:20.833Z'
 title: About
 author: []
 sourcePath: _posts/2016-03-06-meet-christophe-druet.md
