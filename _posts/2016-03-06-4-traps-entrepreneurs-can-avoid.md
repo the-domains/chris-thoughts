@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "9 startups out of 10 fails. According to stats in the US, 50% companies don't last more than 5 years. In Europe, from Eurostar data, one gets a failure rate of 25-33% within the 2 first years. Why such a discrepancy? Well, not all startups get incorporated. Many aborts even before reaching that point."
-datePublished: '2016-03-08T11:42:00.991Z'
-dateModified: '2016-03-08T11:41:45.959Z'
+datePublished: '2016-03-08T13:40:51.121Z'
+dateModified: '2016-03-08T13:40:50.475Z'
 title: 4 traps entrepreneurs can avoid
 author: []
 sourcePath: _posts/2016-03-06-4-traps-entrepreneurs-can-avoid.md
