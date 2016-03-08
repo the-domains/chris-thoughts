@@ -4,8 +4,15 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 13:34:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 13:39:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Art of the Long View]]></title>
+            <description><![CDATA[<article><h1>The Art of the Long View</h1><p>by Peter Schwartz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecdfabfec0c03c922b68e40786f0f76d5b2aae70.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/the-art-of-the-long-view/index.html</link>
+            <guid isPermaLink="false">f5b70d2f-1bfa-40fa-bf64-753525810c36</guid>
+            <pubDate>Tue, 08 Mar 2016 13:39:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Lean Startup]]></title>
             <description><![CDATA[<article><h1>The Lean Startup</h1><p>by Eric Ries</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-thoughts/1-root-cause-of-startup-failure/index.html</link>
             <guid isPermaLink="false">47d80717-547c-4cac-8fc1-912f204d1359</guid>
             <pubDate>Tue, 08 Mar 2016 11:38:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 traps entrepreneurs can avoid]]></title>
-            <description><![CDATA[<article><h1>4 traps entrepreneurs can avoid</h1><p>9 startups out of 10 fails. According to stats in the US, 50% companies don't last more than 5 years. In Europe, from Eurostar data, one gets a failure rate of 25-33% within the 2 first years. Why such a discrepancy? Well, not all startups get incorporated. Many aborts even before reaching that point.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c86b727c8d922e987eeb57ee6448852479d36282.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/4-traps-entrepreneurs-can-avoid/index.html</link>
-            <guid isPermaLink="false">29d47df2-fd4f-44e1-ad40-eb5a4439c801</guid>
-            <pubDate>Tue, 08 Mar 2016 11:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
