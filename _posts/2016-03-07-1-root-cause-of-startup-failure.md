@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Choosing the wrong/bad partner(s) is the most common mistake leading to startup disaster. AVOID!'
-datePublished: '2016-03-08T07:59:54.763Z'
-dateModified: '2016-03-08T07:59:47.457Z'
+description: "Brother, sister, dad, mom: avoid. You don't want to yell at each other for business. They won't ever be completely honest with you, especially if they think your idea sucks. Just as you'll probably be very supportive of their initiative.\_In-laws too: avoid."
+datePublished: '2016-03-08T11:38:19.344Z'
+dateModified: '2016-03-08T11:38:19.035Z'
 title: Choosing the right business partners
 author: []
 sourcePath: _posts/2016-03-07-1-root-cause-of-startup-failure.md
