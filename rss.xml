@@ -4,8 +4,22 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 16:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 16:06:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Equil Smartpen 2]]></title>
+            <description><![CDATA[<article><h1>Equil Smartpen 2</h1><p>One of the greatest things I bought. It works with the Mac and the iPad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4d78a0d41b6deaee821fe1aa1d2602df6b68004.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/equil-smartpen-2/index.html</link>
+            <guid isPermaLink="false">e935c154-1e73-436e-a75b-5767ecaee18d</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/495d25e5-bf2c-4202-b7d8-93bd9c5e8d8b.jpg">]]></description>
+            <link>https://thegrid.ai/chris-thoughts/8f6ea2a4-b878-41c4-9d2f-843e1de1a0ba/index.html</link>
+            <guid isPermaLink="false">8f6ea2a4-b878-41c4-9d2f-843e1de1a0ba</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Smart-me]]></title>
             <description><![CDATA[<article><h1>Smart-me</h1><p>Didn't try it out yet...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d5e58dfef9eb58c551202155aa6807db35514f3.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/chris-thoughts/knut/index.html</link>
             <guid isPermaLink="false">aa3d3cc4-03e3-4964-b585-90839aae7489</guid>
             <pubDate>Sun, 13 Mar 2016 14:59:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MAX!]]></title>
-            <description><![CDATA[<article><h1>MAX!</h1><p>Remotely control the valves of your radiators. You can allocate several valves to the same room and define a temperature schedule per room. The Eco Switch is very convenient when you leave home to reduce all valves to a predefined temperature. The internet control allows you to resume automatic control before reaching home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b8965c7a38430bb305f929cd3e582848bdd1844.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/max/index.html</link>
-            <guid isPermaLink="false">61ae934d-95fb-43b1-b547-3c7ab70fb85c</guid>
-            <pubDate>Sun, 13 Mar 2016 14:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Innovator's DNA]]></title>
-            <description><![CDATA[<article><h1>The Innovator's DNA</h1><h2>Mastering the Five Skills of Disruptive Innovators</h2><p>by Clayton M. Christensen, Jeff Dyer & Hal Gregersen</p></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/the-innovators-dna/index.html</link>
-            <guid isPermaLink="false">751fa34e-f40e-48e4-970d-ec5fb5924a40</guid>
-            <pubDate>Tue, 08 Mar 2016 17:58:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
