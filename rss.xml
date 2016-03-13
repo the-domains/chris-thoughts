@@ -4,8 +4,36 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 16:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 16:08:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ERI]]></title>
+            <description><![CDATA[<article><h1>ERI</h1><p>The final design of the devices is much less nice than expected. But it does the job so far. It might need some further calibration as it doesn’t account for the same number of steps as Moves. That said, I don’t know which one is the most accurate.</p></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/eri/index.html</link>
+            <guid isPermaLink="false">ecc221b8-c7af-47c8-b582-30e13bdbe82a</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Structure Sensor]]></title>
+            <description><![CDATA[<article><h1>Structure Sensor</h1><p>The device works very nicely even if the apps could be improved further. It complement very nicely the 3D printer to be able to scan “portraits” and pieces.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbb4063e79a86fae2f78b6b6b49255a423c28449.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/structure-sensor/index.html</link>
+            <guid isPermaLink="false">84d62fc4-8241-429f-a052-9cfc81b2df0d</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Matter and Form]]></title>
+            <description><![CDATA[<article><h1>Matter and Form</h1><p>I bought this to combine it with my Robo 3D. Unfortunately, it doesn't work as smoothly as expected. I never managed to get high quality scans despite many efforts. The Mac software came very late (from my perspective).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a843179c17d628a69e168e213006144ab939765.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/matter-and-form/index.html</link>
+            <guid isPermaLink="false">93714914-a721-460b-bcbb-6bc31ced6df9</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ODBLink MX Wi-Fi]]></title>
+            <description><![CDATA[<article><h1>ODBLink MX Wi-Fi</h1><p>The goal was to monitor much more closely the performances of my cars. It works very nicely. You can get the full diagnostic at any moment and much more in real time.</p></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/odblink-mx-wi-fi/index.html</link>
+            <guid isPermaLink="false">f27e06f8-f65e-4ebb-bf9d-0e3cb787bf0f</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AnyMote Home]]></title>
             <description><![CDATA[<article><h1>AnyMote Home</h1><p>It took so much time to get it that I finally bought a MyHarmony set from Logitech, which works almost perfectly and delivers exactly the same services. I still must try the AnyMote Home to be honest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9283db8862cac4451b9ed78227598905a8c75020.png"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>https://thegrid.ai/chris-thoughts/emotiv-insight/index.html</link>
             <guid isPermaLink="false">9bc71f04-80f5-4554-8781-3de7c53113eb</guid>
             <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[See Space InAir]]></title>
-            <description><![CDATA[<article><h1>See Space InAir</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f43869f5773a820891fc3916cf6440f1609b758b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/see-space-inair/index.html</link>
-            <guid isPermaLink="false">c7d41e6b-56c8-4f33-b73d-1df766e5f38f</guid>
-            <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Equil Smartpen 2]]></title>
-            <description><![CDATA[<article><h1>Equil Smartpen 2</h1><p>One of the greatest things I bought. It works with the Mac and the iPad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4d78a0d41b6deaee821fe1aa1d2602df6b68004.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/equil-smartpen-2/index.html</link>
-            <guid isPermaLink="false">e935c154-1e73-436e-a75b-5767ecaee18d</guid>
-            <pubDate>Sun, 13 Mar 2016 16:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/495d25e5-bf2c-4202-b7d8-93bd9c5e8d8b.jpg">]]></description>
-            <link>https://thegrid.ai/chris-thoughts/8f6ea2a4-b878-41c4-9d2f-843e1de1a0ba/index.html</link>
-            <guid isPermaLink="false">8f6ea2a4-b878-41c4-9d2f-843e1de1a0ba</guid>
-            <pubDate>Sun, 13 Mar 2016 16:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smart-me]]></title>
-            <description><![CDATA[<article><h1>Smart-me</h1><p>Didn't try it out yet...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d5e58dfef9eb58c551202155aa6807db35514f3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/smart-me/index.html</link>
-            <guid isPermaLink="false">67ce44eb-78ec-4fbd-aae8-7a9219773e81</guid>
-            <pubDate>Sun, 13 Mar 2016 16:05:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
