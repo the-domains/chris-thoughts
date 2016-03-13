@@ -4,8 +4,15 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 15:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 16:05:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leap Motion]]></title>
+            <description><![CDATA[<article><h1>Leap Motion</h1><p>Great way to control your computer to play, design...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/218201d59bb94110429ee780d6a7b23c71622804.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/leap-motion/index.html</link>
+            <guid isPermaLink="false">e3547ac6-cd81-41a7-8bed-08b529e3ced7</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mr Ghost]]></title>
             <description><![CDATA[<article><h1>Mr Ghost</h1><p>Unfortunately, I never managed to make it work properly and to calibrate it using a professional system as a benchmark. Initially, I bought it to monitor the EMF in various places in my house and identify high-EMF sources.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5308481b3a1dacdf58729c07b2742e134adaedf.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-thoughts/slicing-pie/index.html</link>
             <guid isPermaLink="false">cddd9191-0843-482c-a488-67c894fccdbd</guid>
             <pubDate>Tue, 08 Mar 2016 13:53:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 traps entrepreneurs can avoid]]></title>
-            <description><![CDATA[<article><h1>4 traps entrepreneurs can avoid</h1><p>9 startups out of 10 fails. According to stats in the US, 50% companies don't last more than 5 years. In Europe, from Eurostar data, one gets a failure rate of 25-33% within the 2 first years. Why such a discrepancy? Well, not all startups get incorporated. Many aborts even before reaching that point.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c86b727c8d922e987eeb57ee6448852479d36282.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/4-traps-entrepreneurs-can-avoid/index.html</link>
-            <guid isPermaLink="false">29d47df2-fd4f-44e1-ad40-eb5a4439c801</guid>
-            <pubDate>Tue, 08 Mar 2016 13:40:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
