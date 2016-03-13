@@ -4,8 +4,15 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 16:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 16:18:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Disclaimer]]></title>
+            <description><![CDATA[<article><h1>Disclaimer</h1><p>This policy is valid from 1st September,2014</p></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/disclaimer/index.html</link>
+            <guid isPermaLink="false">39f3d4be-d635-40d9-875f-74dbbb64328f</guid>
+            <pubDate>Sun, 13 Mar 2016 16:18:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wakawaka Power]]></title>
             <description><![CDATA[<article><h1>Wakawaka Power</h1><p>Perfect for charging your precious devices wherever you are (provided the sun shines). Even an iPad. So good that I even bought a bigger one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41da67018f8c70ad1244b554b52f2362a7602f8b.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Matter and Form</h1><p>I bought this to combine it with my Robo 3D. Unfortunately, it doesn't work as smoothly as expected. I never managed to get high quality scans despite many efforts. The Mac software came very late (from my perspective).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a843179c17d628a69e168e213006144ab939765.jpg"></article>]]></description>
             <link>https://thegrid.ai/chris-thoughts/matter-and-form/index.html</link>
             <guid isPermaLink="false">93714914-a721-460b-bcbb-6bc31ced6df9</guid>
-            <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ODBLink MX Wi-Fi]]></title>
-            <description><![CDATA[<article><h1>ODBLink MX Wi-Fi</h1><p>The goal was to monitor much more closely the performances of my cars. It works very nicely. You can get the full diagnostic at any moment and much more in real time.</p></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/odblink-mx-wi-fi/index.html</link>
-            <guid isPermaLink="false">f27e06f8-f65e-4ebb-bf9d-0e3cb787bf0f</guid>
             <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
         </item>
     </channel>
