@@ -4,8 +4,15 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 17:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 14:54:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MAX!]]></title>
+            <description><![CDATA[<article><h1>MAX!</h1><p>Remotely control the valves of your radiators. You can allocate several valves to the same room and define a temperature schedule per room. The Eco Switch is very convenient when you leave home to reduce all valves to a predefined temperature. The internet control allows you to resume automatic control before reaching home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b8965c7a38430bb305f929cd3e582848bdd1844.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/max/index.html</link>
+            <guid isPermaLink="false">61ae934d-95fb-43b1-b547-3c7ab70fb85c</guid>
+            <pubDate>Sun, 13 Mar 2016 14:53:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Innovator's DNA]]></title>
             <description><![CDATA[<article><h1>The Innovator's DNA</h1><h2>Mastering the Five Skills of Disruptive Innovators</h2><p>by Clayton M. Christensen, Jeff Dyer & Hal Gregersen</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-thoughts/the-lean-startup/index.html</link>
             <guid isPermaLink="false">1ba8c56c-272a-411c-8a07-3b3cfc127cbf</guid>
             <pubDate>Tue, 08 Mar 2016 13:34:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fifth Discipline]]></title>
-            <description><![CDATA[<article><h1>The Fifth Discipline</h1><p>by Peter Senge</p></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/the-fifth-discipline/index.html</link>
-            <guid isPermaLink="false">ed9c8985-03f1-4b45-a8ec-ccfe2d29ef42</guid>
-            <pubDate>Tue, 08 Mar 2016 13:26:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
