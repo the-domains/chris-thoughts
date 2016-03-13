@@ -4,15 +4,8 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 16:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 16:08:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Robo 3D]]></title>
-            <description><![CDATA[<article><h1>Robo 3D</h1><p>Wonderful. It prints great pieces. This was a gift to my wife who holds a master degree in chemical engineering and specialised in polymers. The plan was, and still is, to develop a business of 3D printing and scanning (see below).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/205bb674d4d9c9c6333973214f6479750ccc58b5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/robo-3d/index.html</link>
-            <guid isPermaLink="false">ffa2629a-4c80-45ff-a7cf-2622f55567f8</guid>
-            <pubDate>Sun, 13 Mar 2016 16:05:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[ISSA]]></title>
             <description><![CDATA[<article><h1>ISSA</h1><p>I’m not really fan of teeth brushing. This new type of toothbrush makes it different. Yeah it does look like a sextoy but it isn’t. It gently brushes my teeth that are clean as new.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b28f88959f32b00bddcd75065e34badf9d1b0614.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Scanadu Scout</h1><p>I'm not hypochondriac. But I live with one...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/290aa8650a18054ff49f245725c2986fb0e51464.jpg"></article>]]></description>
             <link>https://thegrid.ai/chris-thoughts/scanadu-scout/index.html</link>
             <guid isPermaLink="false">ad257a42-0a5f-4ddf-a850-4247e7b97b9b</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27cb319f-1fd7-407e-be83-806f13e279d1.jpg">]]></description>
+            <link>https://thegrid.ai/chris-thoughts/c074b351-80e4-4d95-8673-5596ea354c18/index.html</link>
+            <guid isPermaLink="false">c074b351-80e4-4d95-8673-5596ea354c18</guid>
             <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
         </item>
     </channel>
