@@ -4,8 +4,15 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 16:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 16:06:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EcoQube C]]></title>
+            <description><![CDATA[<article><h1>EcoQube C</h1><p>Being now active in the field of hydro-, aero- and aqua-ponics, I bought this. I don't regret it so far.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8aded8fe4e12b46cc2e554275ff8bbb44c683618.png"></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/ecoqube-c/index.html</link>
+            <guid isPermaLink="false">610aa07c-36ab-43eb-8354-2183630bf051</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jamstik+]]></title>
             <description><![CDATA[<article><h1>Jamstik+</h1><p>Portable guitar both to learn playing (the app for that is really great) and to animate evenings with friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c290a04bfa9152e3307b8b0dd43afdd0c2291f79.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-thoughts/the-4-hour-workweek/index.html</link>
             <guid isPermaLink="false">9d2c3989-322b-4831-9271-1bc7eb7529c3</guid>
             <pubDate>Tue, 08 Mar 2016 16:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Strategist]]></title>
-            <description><![CDATA[<article><h1>The Strategist</h1><h2>Be the Leader your Business Needs</h2><p>by Cynthia A. Montgomery</p></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/the-strategist/index.html</link>
-            <guid isPermaLink="false">a9493bda-fda8-452f-832d-a6f2d6ce1a3b</guid>
-            <pubDate>Tue, 08 Mar 2016 16:34:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
