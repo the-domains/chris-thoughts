@@ -4,8 +4,15 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 16:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 16:06:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jamstik+]]></title>
+            <description><![CDATA[<article><h1>Jamstik+</h1><p>Portable guitar both to learn playing (the app for that is really great) and to animate evenings with friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c290a04bfa9152e3307b8b0dd43afdd0c2291f79.png"></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/jamstik/index.html</link>
+            <guid isPermaLink="false">63235dcc-ea3c-4e8c-b141-5b2c57e1d15f</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OctoFire 8]]></title>
             <description><![CDATA[<article><h1>OctoFire 8</h1><p>Delivers!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30ac22830d4ca732f7544b8e59dc0d7d5221e29e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-thoughts/the-strategist/index.html</link>
             <guid isPermaLink="false">a9493bda-fda8-452f-832d-a6f2d6ce1a3b</guid>
             <pubDate>Tue, 08 Mar 2016 16:34:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Working Identity]]></title>
-            <description><![CDATA[<article><h1>Working Identity</h1><p>by Herminia Ibarra</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c31b02bb0752f04a4e7134d9750937819a2d5856.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/working-identity/index.html</link>
-            <guid isPermaLink="false">11b5ec2e-ed82-4614-b43f-caf2619c1db2</guid>
-            <pubDate>Tue, 08 Mar 2016 14:00:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
