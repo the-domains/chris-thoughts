@@ -4,8 +4,15 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 14:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 14:54:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Knut</p>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/knut/index.html</link>
+            <guid isPermaLink="false">aa3d3cc4-03e3-4964-b585-90839aae7489</guid>
+            <pubDate>Sun, 13 Mar 2016 14:54:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MAX!]]></title>
             <description><![CDATA[<article><h1>MAX!</h1><p>Remotely control the valves of your radiators. You can allocate several valves to the same room and define a temperature schedule per room. The Eco Switch is very convenient when you leave home to reduce all valves to a predefined temperature. The internet control allows you to resume automatic control before reaching home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b8965c7a38430bb305f929cd3e582848bdd1844.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chris-thoughts/the-art-of-the-long-view/index.html</link>
             <guid isPermaLink="false">f5b70d2f-1bfa-40fa-bf64-753525810c36</guid>
             <pubDate>Tue, 08 Mar 2016 13:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Lean Startup]]></title>
-            <description><![CDATA[<article><h1>The Lean Startup</h1><p>by Eric Ries</p></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/the-lean-startup/index.html</link>
-            <guid isPermaLink="false">1ba8c56c-272a-411c-8a07-3b3cfc127cbf</guid>
-            <pubDate>Tue, 08 Mar 2016 13:34:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
