@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This policy is valid from 1st\_September,2014"
-datePublished: '2016-03-13T16:47:45.611Z'
-dateModified: '2016-03-13T16:47:32.772Z'
+datePublished: '2016-03-13T16:51:29.712Z'
+dateModified: '2016-03-13T16:48:37.072Z'
 title: Disclaimer
 author: []
 sourcePath: _posts/2016-03-13-disclaimer.md
