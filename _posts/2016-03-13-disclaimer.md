@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "This policy is valid from 1st\_September,2014"
-datePublished: '2016-03-13T16:18:52.814Z'
-dateModified: '2016-03-13T16:18:43.263Z'
+datePublished: '2016-03-13T16:47:45.611Z'
+dateModified: '2016-03-13T16:47:32.772Z'
 title: Disclaimer
 author: []
+sourcePath: _posts/2016-03-13-disclaimer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-disclaimer.md
-published: true
 url: disclaimer/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Disclaimer
