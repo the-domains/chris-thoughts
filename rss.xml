@@ -4,22 +4,8 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 16:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 16:06:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/495d25e5-bf2c-4202-b7d8-93bd9c5e8d8b.jpg">]]></description>
-            <link>https://thegrid.ai/chris-thoughts/8f6ea2a4-b878-41c4-9d2f-843e1de1a0ba/index.html</link>
-            <guid isPermaLink="false">8f6ea2a4-b878-41c4-9d2f-843e1de1a0ba</guid>
-            <pubDate>Sun, 13 Mar 2016 16:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smart-me]]></title>
-            <description><![CDATA[<article><h1>Smart-me</h1><p>Didn't try it out yet...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d5e58dfef9eb58c551202155aa6807db35514f3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/smart-me/index.html</link>
-            <guid isPermaLink="false">67ce44eb-78ec-4fbd-aae8-7a9219773e81</guid>
-            <pubDate>Sun, 13 Mar 2016 16:05:27 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Touchjet Pond (aka Touch Pico)]]></title>
             <description><![CDATA[<article><h1>Touchjet Pond (aka Touch Pico)</h1><p>Probably the most useful gadget I bought so far. Portable projector with touch wall capabilities.</p></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/chris-thoughts/max/index.html</link>
             <guid isPermaLink="false">61ae934d-95fb-43b1-b547-3c7ab70fb85c</guid>
             <pubDate>Sun, 13 Mar 2016 14:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Innovator's DNA]]></title>
+            <description><![CDATA[<article><h1>The Innovator's DNA</h1><h2>Mastering the Five Skills of Disruptive Innovators</h2><p>by Clayton M. Christensen, Jeff Dyer & Hal Gregersen</p></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/the-innovators-dna/index.html</link>
+            <guid isPermaLink="false">751fa34e-f40e-48e4-970d-ec5fb5924a40</guid>
+            <pubDate>Tue, 08 Mar 2016 17:58:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Being Wrong]]></title>
+            <description><![CDATA[<article><h1>Being Wrong</h1><p>by Kathryn Schulz</p></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/being-wrong/index.html</link>
+            <guid isPermaLink="false">f4f05c16-f651-45be-b4bb-591edbd21a2e</guid>
+            <pubDate>Tue, 08 Mar 2016 16:48:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
