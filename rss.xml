@@ -4,8 +4,22 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>https://thegrid.ai/chris-thoughts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 16:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 16:08:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chris-thoughts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wakawaka Power]]></title>
+            <description><![CDATA[<article><h1>Wakawaka Power</h1><p>Perfect for charging your precious devices wherever you are (provided the sun shines). Even an iPad. So good that I even bought a bigger one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41da67018f8c70ad1244b554b52f2362a7602f8b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/wakawaka-power/index.html</link>
+            <guid isPermaLink="false">9589185c-d6e6-43ba-895d-c2ac1cca14f0</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poppy]]></title>
+            <description><![CDATA[<article><h1>Poppy</h1><p>3D video made simple. If you don’t mind removing the case of your iPhone to plug it into Poppy, you’ll love it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e259def42d12472ddf118bd5ecade3a815aa40e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chris-thoughts/poppy/index.html</link>
+            <guid isPermaLink="false">b64c1cb7-ea92-46ea-8899-d69d6ba2cffc</guid>
+            <pubDate>Sun, 13 Mar 2016 16:05:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wattio]]></title>
             <description><![CDATA[<article><h1>Wattio</h1><p>The device works very nicely even if the translation (from Spanish to English) is far from being perfect. I use it to remotely control my warming system. On top of that the guys from Wattio are really nice. I met one in Vienna at Pioneers 2014. And they replaced my Thermic that had a minor display issue without hesitation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c40e426f70f2515707a576ef9c5be30bb558b8a.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>ODBLink MX Wi-Fi</h1><p>The goal was to monitor much more closely the performances of my cars. It works very nicely. You can get the full diagnostic at any moment and much more in real time.</p></article>]]></description>
             <link>https://thegrid.ai/chris-thoughts/odblink-mx-wi-fi/index.html</link>
             <guid isPermaLink="false">f27e06f8-f65e-4ebb-bf9d-0e3cb787bf0f</guid>
-            <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AnyMote Home]]></title>
-            <description><![CDATA[<article><h1>AnyMote Home</h1><p>It took so much time to get it that I finally bought a MyHarmony set from Logitech, which works almost perfectly and delivers exactly the same services. I still must try the AnyMote Home to be honest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9283db8862cac4451b9ed78227598905a8c75020.png"></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/anymote-home/index.html</link>
-            <guid isPermaLink="false">06b8046d-172f-4b04-84b4-2d2ad5acdda2</guid>
-            <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bloomsky]]></title>
-            <description><![CDATA[<article><h1>Bloomsky</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3eda39c64a70afd27cae47d3c9b29bb96cdae642.png"></article>]]></description>
-            <link>https://thegrid.ai/chris-thoughts/bloomsky/index.html</link>
-            <guid isPermaLink="false">84f98903-214d-47a8-b451-b2bddaecb3f5</guid>
             <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
         </item>
     </channel>
