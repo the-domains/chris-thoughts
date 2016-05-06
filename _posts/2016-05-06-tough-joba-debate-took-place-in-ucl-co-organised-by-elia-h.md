@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T09:36:44.307Z'
-dateModified: '2016-05-06T09:05:36.392Z'
+datePublished: '2016-05-06T10:14:04.694Z'
+dateModified: '2016-05-06T09:36:50.517Z'
 title: Defuse the Energy Future
 author: []
 sourcePath: _posts/2016-05-06-tough-joba-debate-took-place-in-ucl-co-organised-by-elia-h.md
