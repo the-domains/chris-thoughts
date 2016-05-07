@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T18:39:25.928Z'
-dateModified: '2016-05-06T10:14:13.378Z'
+datePublished: '2016-05-07T06:05:39.993Z'
+dateModified: '2016-05-06T18:39:29.694Z'
 title: Defuse the Energy Future
 author: []
 sourcePath: _posts/2016-05-06-tough-joba-debate-took-place-in-ucl-co-organised-by-elia-h.md
@@ -32,10 +32,12 @@ A debate took place in UCL, co-organised by Elia.
 
 Here are the recommendations one can get out of this debate to make a step forward in hopefully the right direction.
 
-# 
+1\. Improving Energy Efficiency means changing/adapting our way of living to decrease our energy consumption. To do that, we need to get the right incentives rather than get the incentives right (to paraphrase a common statement about doing things), for people to get high adoption and for companies to develop new products/services
 
-* Improving Energy Efficiency means changing/adapting our way of living to decrease our energy consumption. To do that, we need to get the right incentives rather than get the incentives right (to paraphrase a common statement about doing things), for people to get high adoption and for companies to develop new products/services.
-* The Future of Grid seems uncertain as Super-grid champions, Smart-grid champions and Micro-grid champions oppose rather than work hand in hand to develop an integrated solution. We need a Super-Smart-Micro-grid sooner than later.
-* Technically, anything is possible - economical, we are still in trouble \[Editor's note: and long will be\]. The current market design is far from being sufficient to enable our Energy Future: fair competition wanted!The complete summary of the debate can be found [here][0].
+2\. The Future of Grid seems uncertain as Super-grid champions, Smart-grid champions and Micro-grid champions oppose rather than work hand in hand to develop an integrated solution. We need a Super-Smart-Micro-grid sooner than later.
+
+3\. Technically, anything is possible - economical, we are still in trouble \[Editor's note: and long will be\]. The current market design is far from being sufficient to enable our Energy Future: fair competition wanted!
+
+The complete summary of the debate can be found [here][0].
 
 [0]: null
