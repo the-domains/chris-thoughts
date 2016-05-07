@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T06:14:52.079Z'
-dateModified: '2016-05-07T06:14:43.013Z'
+datePublished: '2016-05-07T06:24:13.144Z'
+dateModified: '2016-05-07T06:23:57.554Z'
 title: Defuse the Energy Future
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-07-defuse-the-energy-future.md
+starred: true
 url: defuse-the-energy-future/index.html
 _type: Article
 
