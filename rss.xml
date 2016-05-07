@@ -4,14 +4,21 @@
         <description><![CDATA[Chris' Thoughts]]></description>
         <link>http://christophedruet.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 06:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 06:24:56 GMT</lastBuildDate>
         <atom:link href="http://christophedruet.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Defuse the Energy Future]]></title>
             <description><![CDATA[<article><h1>Defuse the Energy Future</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a8da631-c2f0-44c0-a1c1-b05e8f398c9c.jpg"></article>]]></description>
             <link>http://christophedruet.com/defuse-the-energy-future/index.html</link>
             <guid isPermaLink="false">9042f5ed-2ba8-4d19-86d4-0d6f47a1c836</guid>
-            <pubDate>Sat, 07 May 2016 06:14:52 GMT</pubDate>
+            <pubDate>Sat, 07 May 2016 06:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kinetic Wave Power Station is just a dream]]></title>
+            <description><![CDATA[<article><h1>Kinetic Wave Power Station is just a dream</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5e76bdc591f17b20e5c24dc5a5ad792efcf1315.jpg"></article>]]></description>
+            <link>http://christophedruet.com/kinetic-wave-power-station-is-just-a-dream/index.html</link>
+            <guid isPermaLink="false">1769a397-f518-4bd0-8e3c-00e6282c8023</guid>
+            <pubDate>Sat, 07 May 2016 06:23:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wakawaka Power]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>ERI</h1><p>The final design of the devices is much less nice than expected. But it does the job so far. It might need some further calibration as it doesn’t account for the same number of steps as Moves. That said, I don’t know which one is the most accurate.</p></article>]]></description>
             <link>http://christophedruet.com/eri/index.html</link>
             <guid isPermaLink="false">ecc221b8-c7af-47c8-b582-30e13bdbe82a</guid>
-            <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Matter and Form]]></title>
-            <description><![CDATA[<article><h1>Matter and Form</h1><p>I bought this to combine it with my Robo 3D. Unfortunately, it doesn't work as smoothly as expected. I never managed to get high quality scans despite many efforts. The Mac software came very late (from my perspective).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a843179c17d628a69e168e213006144ab939765.jpg"></article>]]></description>
-            <link>http://christophedruet.com/matter-and-form/index.html</link>
-            <guid isPermaLink="false">93714914-a721-460b-bcbb-6bc31ced6df9</guid>
             <pubDate>Sun, 13 Mar 2016 16:05:28 GMT</pubDate>
         </item>
     </channel>
