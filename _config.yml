@@ -1,20 +1,4 @@
-name: "Chris' Thoughts"
-favicon: null
-layout_spectrum: 0.74953
 typography_spectrum: 0.36956
-title: "Chris' Thoughts"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#123e57'
@@ -26,4 +10,24 @@ color:
   lightness: 0.6875
   saturation: 0.5625
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74953
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Christophe Druet
+  email: christophe@druet.be
+  url: 'http://christophedruet.com'
+name: "Chris' Thoughts"
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: "Chris' Thoughts"
 purpose: []
